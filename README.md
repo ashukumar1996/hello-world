@@ -1,2 +1,2 @@
 # hello-world
-this is the my first repositry, to check how github works
+this is the brach readme , which later on will be merged with main branch
